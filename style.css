@@ -28,6 +28,14 @@ ul {
 	margin: 0;
 }
 
+header {
+	backgroud: #35424a;  
+	color: #ffffff;
+	paddind-top: 30px;
+	min-height: 70px;
+	border-bottom: #e8491d solid;
+}
+
 /**************************/
 /* HERO SECTION */
 /**************************/
