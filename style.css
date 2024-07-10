@@ -23,10 +23,10 @@ body {
 	overflow-x: hidden;
 }
 
-ul {
+/*ul {
 	padding: 0;
 	margin: 0;
-}
+}*/
 
 header {
 	background: #35424a;  
@@ -49,9 +49,9 @@ header li{
 	padding: 0 20px 0 20px;
 }
 
-/*header nav{
-	margin-top: 50px;
-	float: right;*/
+header nav{
+	margin-top: 20px;
+	/*float: right;*/
 }
 	
 /**************************/
